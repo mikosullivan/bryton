@@ -1,0 +1,9 @@
+{
+	"ready": false,
+	
+	"files": {
+		"a.rb": true,
+		"b.rb": true,
+		"c.rb": true
+	}
+}

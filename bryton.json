@@ -1,0 +1,6 @@
+{
+	"files": false,
+	"commands": [
+		["rake-bryton.rb"]
+	]
+}
